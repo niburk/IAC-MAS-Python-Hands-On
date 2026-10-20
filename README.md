@@ -33,10 +33,10 @@ You need a Google account for Colab.
 [bwJupyter](https://hub.bwjupyter.de) is a JupyterHub for teaching, run as a state service in Baden-Württemberg.
 
 1. Go to [hub.bwjupyter.de](https://hub.bwjupyter.de) and click **Login with bwIDM**. Choose your university and log in with your university account.
-2. In JupyterLab, click **Clone a Repository** and paste this link:
+2. In JupyterLab, click **Clone a Repository** on the left icon menu and paste this link:
 
    ```
-   niburk/IAC-MAS-Python-Hands-On/blob/main/IAC%20Hands%20on%20Python%20workshop.ipynb
+   https://github.com/niburk/IAC-MAS-Python-Hands-On.git
    ```
 
 3. Open the folder `REPO` in the file browser on the left and double-click `Python_Einfuehrung.ipynb`.
