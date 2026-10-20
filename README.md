@@ -1,4 +1,4 @@
-# Introduction to Python for Chemists
+# Introduction to Python
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niburk/IAC-MAS-Python-Hands-On/blob/main/IAC%20Hands%20on%20Python%20workshop.ipynb)
 
