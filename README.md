@@ -1,6 +1,6 @@
 # Introduction to Python for Chemists
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/Python_Einfuehrung.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niburk/IAC-MAS-Python-Hands-On/blob/main/IAC%20Hands%20on%20Python%20workshop.ipynb)
 
 A hands-on, 60-minute introduction to Python for chemistry students with no prior programming experience. The course is an interactive Jupyter notebook with short explanations, runnable examples, small exercises with instant feedback, and a research-related final project.
 
@@ -36,7 +36,7 @@ You need a Google account for Colab.
 2. In JupyterLab, click **Clone a Repository** and paste this link:
 
    ```
-   https://github.com/USERNAME/REPO.git
+   niburk/IAC-MAS-Python-Hands-On/blob/main/IAC%20Hands%20on%20Python%20workshop.ipynb
    ```
 
 3. Open the folder `REPO` in the file browser on the left and double-click `Python_Einfuehrung.ipynb`.
